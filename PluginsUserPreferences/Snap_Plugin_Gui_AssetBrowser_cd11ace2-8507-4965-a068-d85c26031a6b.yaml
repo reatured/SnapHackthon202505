@@ -1,0 +1,20 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 14
+    values:
+      - Scene.scene
+      - SpectaclesSyncKit/Components
+      - SpectaclesSyncKit/Core
+      - SpectaclesSyncKit/Examples
+      - SpectaclesSyncKit/Mapping
+      - SpectaclesSyncKit/SpectaclesInteractionKit
+      - SpectaclesSyncKit/SpectaclesInteractionKit/package.native
+      - SpectaclesSyncKit/Utils
+      - SpectaclesSyncKit/package.native
+      - TicTacToe/Javascript
+      - TicTacToe/Materials
+      - TicTacToe/Meshes
+      - TicTacToe/Prefabs
+      - TicTacToe/Typescript
+  options: 4
