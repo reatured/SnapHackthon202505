@@ -3343,7 +3343,7 @@
   LocalTransform:
     position: {x: 0.000000, y: 25.264599, z: 20.000000}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
-    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    scale: {x: 39.096703, y: 39.096703, z: 39.096703}
     hasSegmentScaleCompensation: false
   Children:
     []
