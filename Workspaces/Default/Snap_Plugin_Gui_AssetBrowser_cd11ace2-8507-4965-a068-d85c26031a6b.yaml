@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 14
+    size: 16
     values:
       - Scene.scene
       - SpectaclesSyncKit/Components
@@ -12,9 +12,11 @@ CollapsedEntities:
       - SpectaclesSyncKit/SpectaclesInteractionKit/package.native
       - SpectaclesSyncKit/Utils
       - SpectaclesSyncKit/package.native
+      - Text3D.mat
       - TicTacToe/Javascript
       - TicTacToe/Materials
       - TicTacToe/Meshes
       - TicTacToe/Prefabs
       - TicTacToe/Typescript
+      - text_3d.ss_graph
   options: 4
