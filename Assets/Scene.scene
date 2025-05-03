@@ -3341,7 +3341,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 0.000000, y: 25.264599, z: 20.000000}
+    position: {x: 0.000000, y: 25.264599, z: -718.622498}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 39.096703, y: 39.096703, z: 39.096703}
     hasSegmentScaleCompensation: false
